@@ -5,7 +5,7 @@ A part of #flutter100daysofcode. Let's create a beautiful and animated Shoes Sho
 ### [Watch it on Youtube](https://youtu.be/lrMCjIYpnjg)
 
 ## Previous Designs
-[Checkout my Youtube channel](https://youtube.com/afgprogrammer)
+[Checkout my Youtube channel](https://www.youtube.com/@AffiDev)
 
 
 ## Development Setup
@@ -21,7 +21,8 @@ flutter run
 
 ## Links
 
-* [Website](https://afgprogrammer.com)
-* [Youtube channel](https://youtube.com/afgprogrammer)
-* [Twitter](https://twitter.com/afgprogrammer)
-* [Instagram](https://instagram.com/afgprogrammer)
+* [Website](affi-dev.github.io/official-website/)
+* [Youtube channel](https://www.youtube.com/@AffiDev)
+* [Instagram](https://www.instagram.com/_affidev/)
+  
+Afnan Shams
